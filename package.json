@@ -1,0 +1,22 @@
+{
+  "name": "autospeedtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "better-logging": "^4.7.0",
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.5",
+    "node-schedule": "^2.1.0"
+  }
+}
